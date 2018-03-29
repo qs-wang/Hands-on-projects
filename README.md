@@ -11,3 +11,7 @@
   - soldering of parts
   ![My image](https://github.com/qs-wang/Hands-on-projects/blob/master/PCB%20board%20bottom)
   ![My image](https://github.com/qs-wang/Hands-on-projects/blob/master/PCB%20board%20top)
+-RC programming car
+  - Construction
+  - Running programs
+   ![My image](https://github.com/qs-wang/Hands-on-projects/blob/master/RC%20Programming%20car)
